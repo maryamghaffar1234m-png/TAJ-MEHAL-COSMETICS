@@ -1,5 +1,5 @@
 # TAJ-MEHAL-COSMETICS
-Modern beauty landing page built with HTML &amp; CSS showcasing skincare products with clean UI
+Modern beauty landing page built with HTML &amp; CSS showcasing skincare products with clean UI.
 <br>
 🌸 Husan-e-Mahal – Beauty Landing Page
 
@@ -32,7 +32,6 @@ This project is created for practice and to improve frontend development skills 
 
 For orders or inquiries, contact via WhatsApp or social platforms.
 
----
 
 💖 Designed with creativity and passion
 
